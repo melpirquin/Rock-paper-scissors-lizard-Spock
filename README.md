@@ -11,12 +11,12 @@ Everyone knows the game "rock, paper, scissors".
 Well, who watched the show "The Big Bang Theory". There is a scene with Sheldon where he explains the game
 and added Lizard and Spock to it. 
 
-###Before we play some rules:
+### Before we play some rules:
 "Scissors cut Paper", "Paper covers Rock", "Rock crushes Lizard",
 "Lizard poisons Spock", "Spock smashes Scissors", "Scissors decapitate Lizard",
 "Lizard eats Paper", "Paper disproves Spock", "Spock vaporizes Rock", "Rock crushes Scissors"
 
-###This is how the game looks.
+### This is how the game looks.
 ![Picture game](img/game.jpg "Screenshot game")
 
 It's very easy. Just click one of the five buttons below "Can you defeat spock?"
