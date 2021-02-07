@@ -1,0 +1,102 @@
+
+body {
+    width: 100%;
+    background: #3E2A35;
+
+}
+
+header {
+    background: #3E2A35;
+    margin: auto;
+    text-align: center;
+
+}
+header > h1 {
+    font-size: 75px;
+    color: #BBB09B;
+    font-family: 'Pirata One', cursive;
+}
+
+.scoreBoard {
+
+    border-style: solid;
+    border-color: #BBB09B;
+    width: 300px; height:150px;
+    position: relative;
+    text-align: center;
+    margin:  50px auto;
+}
+.badge{
+    background: #E26D5A;
+}
+#userLabel, #computerLabel{
+    width: 120px; padding: 10px;
+    color: #3E2A35;
+    font-family: 'Pirata One', cursive;
+    font-size: 35px;
+}
+#userLabel{
+    position: absolute;
+    left: -120px;
+    top: 40px;
+}
+
+#computerLabel{
+    position: absolute;
+    top: 40px;
+    left: 280px;
+}
+#userScore, #computerScore{
+   position: relative;
+    font-family: 'Pirata One', cursive;
+    font-size:75px;
+    color: #CED0CE;
+    top: 30px;
+}
+
+#computerScore {
+    left: 50px;
+}
+
+#userScore {
+    left: -50px;
+}
+
+.result {
+    position: relative;
+    text-align: center;
+    color: #BBB09B;
+    font-family: 'Pirata One', cursive;
+    font-size: 50px;
+}
+
+#btn-one, #btn-two, #btn-three, #btn-four, #btn-five{
+    background-color: #e26d5a;
+    width: 200px;
+    height:50px;
+    border: none;
+    color: #3e2a35;
+    margin: 4px;
+    padding: 4px;
+    font-family: 'Pirata One', cursive;
+    font-size:30px;
+}
+
+#btn-one:hover, #btn-two:hover, #btn-three:hover, #btn-four:hover, #btn-five:hover{
+    background-color: #BBB09B;
+    color: #E26D5A;
+}
+#btn-one:active, #btn-two:active, #btn-three:active, #btn-four:active, #btn-five:active{
+    background-color: #D7BBA8;
+    box-shadow: 0 3px #69352b;
+    transform: translateY(4px);
+}
+
+
+
+
+.buttons{
+    text-align: center;
+    margin:  50px;
+
+}
