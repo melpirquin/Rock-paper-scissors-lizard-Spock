@@ -70,7 +70,7 @@ header > h1 {
     font-size: 50px;
 }
 
-#btn-one, #btn-two, #btn-three, #btn-four, #btn-five{
+#btn-one, #btn-two, #btn-three, #btn-four, #btn-five, #reset-btn {
     background-color: #e26d5a;
     width: 200px;
     height:50px;
@@ -82,21 +82,22 @@ header > h1 {
     font-size:30px;
 }
 
-#btn-one:hover, #btn-two:hover, #btn-three:hover, #btn-four:hover, #btn-five:hover{
+#btn-one:hover, #btn-two:hover, #btn-three:hover, #btn-four:hover, #btn-five:hover, #reset-btn:hover{
     background-color: #BBB09B;
     color: #E26D5A;
 }
-#btn-one:active, #btn-two:active, #btn-three:active, #btn-four:active, #btn-five:active{
+#btn-one:active, #btn-two:active, #btn-three:active, #btn-four:active, #btn-five:active, #reset-btn:active{
     background-color: #D7BBA8;
     box-shadow: 0 3px #69352b;
     transform: translateY(4px);
 }
 
-
-
-
 .buttons{
     text-align: center;
     margin:  50px;
 
+}
+#reset-btn{
+    text-align: center;
+    left:  50px;
 }
