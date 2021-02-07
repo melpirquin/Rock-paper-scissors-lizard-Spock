@@ -1,4 +1,5 @@
-#Rock-paper-scissors-lizard-Spock
+# Rock-paper-scissors-lizard-Spock
+=============
 ## My first game 
 #### Why this game?
 
@@ -25,7 +26,7 @@ Also, those two zeros you see between user and computer. That's your score!
 
 ![Spock](img/spock.jpeg "Spock")
 
-###Enjoy it!
+### Enjoy it!
 
 
 
