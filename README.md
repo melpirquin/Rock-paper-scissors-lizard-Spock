@@ -1,5 +1,5 @@
 # Rock-paper-scissors-lizard-Spock
-=============
+
 ## My first game 
 #### Why this game?
 
